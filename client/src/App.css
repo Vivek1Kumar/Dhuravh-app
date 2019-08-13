@@ -1,0 +1,14 @@
+.vert-offset-top-0{
+  margin-top: 0em;
+}
+.vert-offset-top-2{
+  margin-top: 2em;
+}
+.well {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+}
